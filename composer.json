@@ -1,5 +1,5 @@
 {
-    "name": "lexasoft/php-censor-telegram-plugin",
+    "name": "erp-mgroen/php-censor-telegram-plugin",
     "description": "PHP Censor plugin for Telegram",
     "license": "GPL-3.0",
     "authors": [
